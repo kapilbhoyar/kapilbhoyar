@@ -1,8 +1,8 @@
 ## Hi there 👋 welcome to my Github!
 
-<p align="center">
+<p align="left">
   <img 
-    width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdxNDByZzNkd3RicGczNzFxazNrcWN2ejUxbzZjNWs2dmp0c2xseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif">
+    width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdxNDByZzNkd3RicGczNzFxazNrcWN2ejUxbzZjNWs2dmp0c2xseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif">
 </p>
 
 <!--
