@@ -18,7 +18,7 @@
 <img align="left" alt="CSS3" width="50px" src="https://media.giphy.com/media/qPR55MsbOEwinH5Flw/giphy.gif" />&nbsp;
 <img align="left" alt="C++" width="50px" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" />&nbsp;
 <img align="left" alt="Visual Studio Code" width="50px" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" /> &nbsp;
-<img align="left" alt="Git" width="65px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />&nbsp;
+<img align="left" alt="Git" width="50px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />&nbsp;
 <img align="left" alt="GitHub" width="50px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />&nbsp;
 <img align="left" alt="Gitlab" width="65px" src="https://media.giphy.com/media/hqrdSW7r1DFsDZwSnR/giphy.gif" />&nbsp;
 
