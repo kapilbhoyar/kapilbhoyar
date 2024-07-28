@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 welcome to my Github!
+
+<p align="center">
+  <img width="250" src="https://giphy.com/gifs/Smolverse-builder-smol-smolverse-QXwtfadqo7wbfmT46H">
+</p>
 
 <!--
 **kapilbhoyar/kapilbhoyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
