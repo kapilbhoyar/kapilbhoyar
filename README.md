@@ -14,7 +14,7 @@
 <img align="left" alt="Angular" width="50px" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" />&nbsp;
 <img align="left" alt="Firebase" width="50px" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" />&nbsp;
 <img align="left" alt="JavaScript" width="50px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />&nbsp;
-<img align="left" alt="HTML5" width="50px" src="https://media.giphy.com/media/5jhs1SpOas2pLpdO9O/giphy.gif" />&ensp;
+<img align="left" alt="HTML5" width="50px" src="https://media.giphy.com/media/5jhs1SpOas2pLpdO9O/giphy.gif" />&emsp;
 <img align="left" alt="CSS3" width="50px" src="https://media.giphy.com/media/qPR55MsbOEwinH5Flw/giphy.gif" />&nbsp;
 <img align="left" alt="C++" width="50px" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" />&nbsp;
 <img align="left" alt="Visual Studio Code" width="50px" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" /> &nbsp;
