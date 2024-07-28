@@ -1,7 +1,8 @@
 ## Hi there 👋 welcome to my Github!
 
 <p align="center">
-  <img width="250" src="https://giphy.com/gifs/Smolverse-builder-smol-smolverse-QXwtfadqo7wbfmT46H">
+  <img 
+    width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdxNDByZzNkd3RicGczNzFxazNrcWN2ejUxbzZjNWs2dmp0c2xseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif">
 </p>
 
 <!--
