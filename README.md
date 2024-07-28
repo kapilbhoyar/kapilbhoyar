@@ -1,11 +1,11 @@
-## Hi there 👋 welcome to my Github!
+# <samp>Hi there 👋 welcome to my Github!</samp>
 
 <p align="left">
   <img 
     width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdxNDByZzNkd3RicGczNzFxazNrcWN2ejUxbzZjNWs2dmp0c2xseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif">
 </p>
 
-### Languages and Tools: 
+### <samp>Languages and Tools: </samp>
 <div>
   <img alt="iOS" width="5%" src="https://media.giphy.com/media/VgTtXyj5YjVFieCYM2/giphy.gif" />&nbsp;
   <img alt="XCode" width="5%" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" />&nbsp;
@@ -27,7 +27,7 @@
 <div align="center">
   <br/>  
   <br/>
-  <samp>Check out my repos ⬇️<samp>
+  <samp>Check out my repos ⬇️</samp>
 </div>
 
 
