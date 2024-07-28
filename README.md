@@ -12,7 +12,8 @@
 <img align="left" alt="Swift" width="50px" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" />&nbsp;
 <img align="left" alt="Ionic" width="50px" src="https://github.com/ionic-team/ionic-framework/blob/main/.github/assets/logo.png?raw=true" />&nbsp;
 <img align="left" alt="Angular" width="50px" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" />&nbsp;
-<img align="left" alt="Firebase" width="50px" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" />&nbsp;<br/>;
+<img align="left" alt="Firebase" width="50px" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" />&nbsp;
+<br />
 <img align="left" alt="JavaScript" width="50px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />&nbsp;
 <img align="left" alt="HTML5" width="50px" src="https://media.giphy.com/media/5jhs1SpOas2pLpdO9O/giphy.gif" />&nbsp;
 <img align="left" alt="CSS3" width="50px" src="https://media.giphy.com/media/qPR55MsbOEwinH5Flw/giphy.gif" />&nbsp;
